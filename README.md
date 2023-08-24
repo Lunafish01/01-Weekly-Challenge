@@ -18,6 +18,9 @@ No installation required.
 
 [Horiseon Accessibility Project](https://lunafish01.github.io/Horiseon-Accessibility-Project/)
 
+- [Website deployed](assets/images/screen-shot-01)
+- [Website deployed continued](assets/images/screen-shot-02)
+
 ## Credits
 
  - [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
