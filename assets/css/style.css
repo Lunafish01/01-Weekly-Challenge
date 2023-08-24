@@ -86,37 +86,26 @@ p {
     background-color: #2589bd;
 }
 
-/*removed additonal css code*/
+/*removed and consolidated additonal css code*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*removed additonal css code*/
+/*removed and consolidated additonal css code*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*removed and consolidated additonal css code*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*removed additonal css code*/
+/*removed and consolidated additonal css code*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,19 +115,12 @@ p {
     color: #ffffff;
 }
 
+/*removed and consolidated additonal css code*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/*removed addtional css code*/
+/*removed and consolidated additonal css code*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
